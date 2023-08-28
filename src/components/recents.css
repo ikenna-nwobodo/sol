@@ -1,0 +1,11 @@
+.recents {
+  /* background-color: aquamarine; */
+  /* background-color: whitesmoke; */
+  border: 1px dashed rgba(128, 128, 128, 0.686);
+  display: grid;
+  gap: 1rem;
+  /* box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1); */
+  padding: 0.5rem;
+  border-radius: 0.3rem;
+  width: 100%;
+}
